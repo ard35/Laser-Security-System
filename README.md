@@ -8,6 +8,6 @@ If the laser is crossed, a red LED, a buzzer sound, and a shell message of "INTR
 If correct, the system will turn OFF, a yellow LED and a shell message of "System OFF" will be produced. Re-run the program to initiate the system to ON once more. 
 
 A picture of the schematics are included, along with the original Fritzing file.
-This program does need the inclusion of the Keypad library. I did not write this code, but I have attached it.
+This program does need the inclusion of the Keypad library. I did not write this library, but I have attached it.
 
 **School Project**
